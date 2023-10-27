@@ -1,4 +1,3 @@
 sparkmeasure
 pandas
 plotly
-pyspark
